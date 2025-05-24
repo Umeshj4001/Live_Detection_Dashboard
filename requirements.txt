@@ -1,0 +1,9 @@
+streamlit==1.38.0
+streamlit-webrtc==0.47.7
+opencv-python-headless==4.10.0.84
+mediapipe==0.10.14
+numpy==1.26.4
+av==12.3.0
+torch==2.4.1
+ultralytics==8.2.90
+seaborn==0.13.2
